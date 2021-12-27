@@ -40,6 +40,6 @@ The training curves below show that the multimodal curves show better fitting th
 ![mm dl](https://user-images.githubusercontent.com/48343095/147476073-bc9a31d9-cc24-4580-936f-fa383e95b097.png)
 
 <h2> SOTA ACCURACY </h2>
-We were able to achieve a SOTA accuracy of 99% on this dataset using multimodal deep learning. Similar SOTA results were also obtained using Customized CNN. The details of the same are in the Colab Notebook link provided in this repository.
+We were able to achieve a SOTA accuracy of 99% on this dataset using multimodal deep learning. Similar SOTA results were also obtained using Customized CNN. The details of the same are in the Colab Notebook link provided in this repository. the findings were published in the DLDC Summit - 2021 as a part of the publication in the Lattice journal
 
   
