@@ -5,15 +5,35 @@ This repository contains code pertaining to multimodal deep learning classificat
 <img src="https://user-images.githubusercontent.com/48343095/147462673-6c286301-d149-4e4e-8351-27bea0873045.png" width="900"  height = "250"/>
 <img src="https://user-images.githubusercontent.com/48343095/147392939-e01a5375-8161-460a-89de-3ab4fbff5a59.png" width="300"  height = "250"/>
 
-<h2> MACHINE LEARNING ALGORITHMS </h2>
+<h2> CONVENTIONAL MACHINE LEARNING</h2>
 Machine learning models have been built using scikit learn library and the pycaret distribution. Tree based classifiers and Gradient Boosting algorithms show higher evaluation metrics than other algorithms but however their performance on class imbalance was not satisfactory. ANNS show better performance on class imbalance and even have higher model metrics. These deep networks are superior to other ML architectures on tabular data. 
 <img src="https://user-images.githubusercontent.com/48343095/147462826-0955d7a5-db0a-4726-8d2b-75de0df6f597.png" width="450"  height = "350"/>
 
-
-<h2> DEEP LEARNING ALGORITHMS </h2>
-<img src="https://user-images.githubusercontent.com/48343095/147462655-5f932468-60a6-4b55-84c2-f3c24a14a77e.png" width="400"  height = "200"/> <img src="https://user-images.githubusercontent.com/48343095/147462660-5713d7b5-062d-497f-9fd2-8bebbda28490.png" width="450"  height = "150"/>
+<h2> UNIMODAL DEEP LEARNING</h2>
+<img src="https://user-images.githubusercontent.com/48343095/147462655-5f932468-60a6-4b55-84c2-f3c24a14a77e.png" width="400"  height = "180"/>
+<img src="https://user-images.githubusercontent.com/48343095/147473706-df38cd1d-5fce-4fee-a83b-be30d8827408.png" width="400"  height = "180"/>
+The following were  observed on unimodal deep learning algorithms
+1) Newer architecture better than older architectures on ‘minimal fine tuning’ <br>
+2) Overfitting / underfitting on older architectures<br>
+3) Steeper curve<br>
+4) No significant train test gap Higher Evaluation metrics<br>
+5) Higher Accuracies in minimal epochs<br>
+The class wise scores however showed a decline in the Quasar class
+<img src="https://user-images.githubusercontent.com/48343095/147473922-33e2db96-6412-4e8e-a853-0c9a57538d6c.png" width="400"  height = "180"/>
 
 <h2> MULTIMODAL DEEP LEARNING </h2>
+Multimodal deep network has been built by combining tabular data and image data using the functional API of keras.
+The following was inferred.
+<img src="https://user-images.githubusercontent.com/48343095/147474493-5aabe461-bbce-4f9d-a38e-32d835bdc73c.png" width="400"  height = "150"/>
+The class wise metrics were aso superior in mnultimodal deep learning with no effect of class imbalance on the model performance.
+<img src="https://user-images.githubusercontent.com/48343095/147474352-ee2134c6-e6d8-4caf-9c0b-f0182326605b.png" width="400"  height = "150"/>
+The following are the findings of the architecture <br>
+1) Curves of even older architectures improves in multimodality <br>
+2) EfficientNetB2 and Xception has steepest curves  - (better than unimodal deep learning) <br>
+3) Highest accuracies at minimal  number of epochs (better than unimodal deep learning) <br>
+4) Perfectly fitting model – Train test gap – least <br>
 
-  
+<h2> TRAINING CURVES </h2>
+
+
   
