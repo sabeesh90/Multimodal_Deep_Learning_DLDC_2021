@@ -1,6 +1,6 @@
 <h2> MULTIMODAL DEEP LEARNING  - TENSORFLOW / KERAS</h2>
 
-This repository contains code pertaining to multimodal deep learning classification performed on the SDSS-4 DR-16 dataset. The Sloan Digital Sky Survey captures spectroscopic and photmetric information about the various astronomical bodies such as galaxies, stars and quasars. The dataset consists of both tabular and image data which have been downloaded from the SDSS website. http://skyserver.sdss.org/dr16/en/tools/search/sql.aspx. There are 6 features and 1 target variable for the tabular data. The target variable is a 3 class variable. There are a total of 1000 datapoints. The distribution of the images along with the images of the astronomical bodies (Galaxies, stars and Quasars - In order) is shown below.
+This repository contains code pertaining to multimodal deep learning classification performed on the SDSS-4 DR-16 dataset with a SOTA accuracy of 99%. The Sloan Digital Sky Survey captures spectroscopic and photmetric information about the various astronomical bodies such as galaxies, stars and quasars. The dataset consists of both tabular and image data which have been downloaded from the SDSS website. http://skyserver.sdss.org/dr16/en/tools/search/sql.aspx. There are 6 features and 1 target variable for the tabular data. The target variable is a 3 class variable. There are a total of 1000 datapoints. The distribution of the images along with the images of the astronomical bodies (Galaxies, stars and Quasars - In order) is shown below.
 
 <img src="https://user-images.githubusercontent.com/48343095/147462673-6c286301-d149-4e4e-8351-27bea0873045.png" width="900"  height = "250"/>
 <img src="https://user-images.githubusercontent.com/48343095/147392939-e01a5375-8161-460a-89de-3ab4fbff5a59.png" width="300"  height = "250"/>
@@ -34,6 +34,12 @@ The following are the findings of the architecture <br>
 4) Perfectly fitting model – Train test gap – least <br>
 
 <h2> TRAINING CURVES </h2>
+The training curves below show that the multimodal curves show better fitting than the unimodal curves.
 
+![unimodal dl](https://user-images.githubusercontent.com/48343095/147476061-aebc2bcb-307f-4bab-889e-75b73e23b428.png)
+![mm dl](https://user-images.githubusercontent.com/48343095/147476073-bc9a31d9-cc24-4580-936f-fa383e95b097.png)
+
+<h2> SOTA ACCURACY </h2>
+We were able to achieve a SOTA accuracy of 99% on this dataset using multimodal deep learning. Similar SOTA results were also obtained using Customized CNN. The details of the same are in the Colab Notebook link provided in this repository.
 
   
