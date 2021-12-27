@@ -1,6 +1,8 @@
 <h2> MULTIMODAL DEEP LEARNING  - TENSORFLOW / KERAS</h2>
 
 ## Paper presented at DLDC 2021
+[DLDC_2021_Camera Ready Version_Bharath_Sabeesh.pdf](https://github.com/sabeesh90/Multimodal_Deep_Learning/files/7781427/DLDC_2021_Camera.Ready.Version_Bharath_Sabeesh.pdf)
+
 
 This repository contains code pertaining to multimodal deep learning classification performed on the SDSS-4 DR-16 dataset with a SOTA accuracy of 99%. The Sloan Digital Sky Survey captures spectroscopic and photmetric information about the various astronomical bodies such as galaxies, stars and quasars. The dataset consists of both tabular and image data which have been downloaded from the SDSS website. http://skyserver.sdss.org/dr16/en/tools/search/sql.aspx. There are 6 features and 1 target variable for the tabular data. The target variable is a 3 class variable. There are a total of 1000 datapoints. The distribution of the images along with the images of the astronomical bodies (Galaxies, stars and Quasars - In order) is shown below.
 
