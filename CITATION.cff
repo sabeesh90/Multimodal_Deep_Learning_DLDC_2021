@@ -9,7 +9,7 @@ authors:
   orcid: "0000-0002-4726-042X"
 title: "CLASSIFICATION OF QUASARS, GALAXIES, AND STARS USING MULTI-MODAL DEEP LEARNING"
 version: 1
-doi: "10"
+doi: ""
 date-released: 2021-09-30
 url: "https://github.com/sabeesh90"
 preferred-citation:
@@ -21,7 +21,7 @@ preferred-citation:
   - family-names: "Bharath Kumar" 
     given-names: "Bolla"
     orcid: "0000-0002-4726-042X"
-  doi: "10"
+  doi: ""
   journal: "LATTICE - The Machine Learning Journal"
   month: 9
   start: 19 # First page number
