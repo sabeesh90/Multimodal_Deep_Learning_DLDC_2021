@@ -13,7 +13,7 @@ doi: "10"
 date-released: 2021-09-30
 url: "https://github.com/sabeesh90"
 preferred-citation:
-  type: conference-paper
+  type: article
   authors:
   - family-names: "Sabeesh"
     given-names: "Ethiraj"
