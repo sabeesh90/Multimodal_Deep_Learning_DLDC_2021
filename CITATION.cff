@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this conference paper, please cite it as below."
+title: "EFFICIENT DEEP LEARNING METHODS FOR IDENTIFICATION OF DEFECTIVE CASTING PRODUCTS"
+version: 1.0.0
+date-released: 2021-09-30 
+url: "https://github.com/sabeesh90"
+preferred-citation:
+  type: conference-paper
+  authors:
+  - family-names: Sabeesh
+    given-names: Ethiraj
+    orcid: 0000-0001-6454-7222  
+  - family-names: Bharath Kumar 
+    given-names: Bolla
+    orcid: 0000-0002-4726-042X
+  doi: ""
+  journal: "Lattice - The Machine Learning Journal"
+  month: 9
+  start: 19 # First page number
+  end: 25 # Last page number
+  title: "EFFICIENT DEEP LEARNING METHODS FOR IDENTIFICATION OF DEFECTIVE CASTING PRODUCTS"
+  issue: 3
+  volume: 2
+  year: 2021
