@@ -1,32 +1,32 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-- family-names: "Lisa"
-  given-names: "Mona"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
-- family-names: "Bot"
-  given-names: "Hew"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
-title: "My Research Software"
-version: 2.0.4
-doi: 10.5281/zenodo.1234
-date-released: 2017-12-18
-url: "https://github.com/github/linguist"
+- family-names: Sabeesh
+  given-names: Ethiraj
+  orcid: 0000-0001-6454-7222  
+- family-names: Bharath Kumar 
+  given-names: Bolla
+  orcid: 0000-0002-4726-042X
+title: "CLASSIFICATION OF QUASARS, GALAXIES, AND STARS USING MULTI-MODAL DEEP LEARNING"
+version: 1
+doi: ""
+date-released: 2021-09-30
+url: "https://github.com/sabeesh90"
 preferred-citation:
-  type: article
+  type: conference-paper
   authors:
-  - family-names: "Lisa"
-    given-names: "Mona"
-    orcid: "https://orcid.org/0000-0000-0000-0000"
-  - family-names: "Bot"
-    given-names: "Hew"
-    orcid: "https://orcid.org/0000-0000-0000-0000"
-  doi: "10.0000/00000"
-  journal: "Journal Title"
+  - family-names: Sabeesh
+    given-names: Ethiraj
+    orcid: 0000-0001-6454-7222  
+  - family-names: Bharath Kumar 
+    given-names: Bolla
+    orcid: 0000-0002-4726-042X
+  doi: ""
+  journal: "LATTICE  - The Machine Learning Journal"
   month: 9
-  start: 1 # First page number
-  end: 10 # Last page number
-  title: "My awesome research software"
-  issue: 1
-  volume: 1
+  start: 19 # First page number
+  end: 25 # Last page number
+  title: "CLASSIFICATION OF QUASARS, GALAXIES, AND STARS USING MULTI-MODAL DEEP LEARNING"
+  issue: 3
+  volume: 2
   year: 2021
