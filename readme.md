@@ -1,6 +1,8 @@
 <h2> MULTIMODAL DEEP LEARNING  - TENSORFLOW / KERAS</h2>
 
 ### Paper presented at DLDC 2021  [DLDC_2021_Camera Ready Version_Bharath_Sabeesh.pdf](https://github.com/sabeesh90/Multimodal_Deep_Learning/files/7781427/DLDC_2021_Camera.Ready.Version_Bharath_Sabeesh.pdf)
+[DLDC presentation.pptx](https://github.com/sabeesh90/Multimodal_Deep_Learning/files/7914945/DLDC.presentation.pptx)
+
 
 <img src="https://user-images.githubusercontent.com/48343095/147503875-2a7d1543-db01-479d-8489-5ac4d4b9abe6.png" width="700"  height = "600"/>
 
